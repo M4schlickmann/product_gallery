@@ -1,12 +1,12 @@
 # product_gallery
-## Galeria de produdos HTML, CSS JavaScript
+#### Galeria de produdos HTML, CSS JavaScript
 
-### Uma simples galeria de produto, que pode ser implantada facilmente em qualquer page.
+##### Uma simples galeria de produto, que pode ser implantada facilmente em qualquer page.
 
-### Para editar esse documento eu pode ser usado o Brackets ou sublimeText.
+#Emphasis, aka italics, with *asterisks* or _underscores_. Para editar esse documento eu pode ser usado o Brackets ou sublimeText.
 
 
-#### Instalando Brackets:
+### Instalando Brackets:
 
 Brackets está disponível nos repositórios oficiais das versões mais recentes do Ubuntu 
 e pode ser instalado usando a Central de programas ou usando o comando 
