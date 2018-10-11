@@ -3,8 +3,7 @@
 
 ##### Uma simples galeria de produto, que pode ser implantada facilmente em qualquer page.
 
-#Emphasis, aka italics, with *asterisks* or _underscores_. Para editar esse documento eu pode ser usado o Brackets ou sublimeText.
-
+### Pode ser editado com Brackets ou qualquer outro editor de texto compativel.
 
 ### Instalando Brackets:
 
@@ -13,20 +12,20 @@ e pode ser instalado usando a Central de programas ou usando o comando
     
         sudo apt-get install brackets.
     
-Por isso, para ter a última versão desse programa no Ubuntu, e ainda poder receber automaticamente as 
-futuras atualizações dele, você deve fazer o seguinte:
+#### Por isso, para ter a última versão desse programa no Ubuntu, e ainda poder receber automaticamente as 
+#### futuras atualizações dele, você deve fazer o seguinte:
     
-1. Abra um terminal(CTRL + ALT + T);
+### 1. Abra um terminal(CTRL + ALT + T);
     
-2. Adicione o repositório do programa;
+### 2. Adicione o repositório do programa;
     
         sudo add-apt-repository ppa:webupd8team/brackets
     
-3. Atualize o APT;
+### 3. Atualize o APT;
     
         sudo apt-get update
         
-4. Instalar o programa;
+### 4. Instalar o programa;
      
         sudo apt-get install brackets
       
