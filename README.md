@@ -1,4 +1,4 @@
-# [Product_Gallery](https://github.com/M4schlickmann/product_gallery) # product_gallery
+## [Product_Gallery](https://github.com/M4schlickmann/product_gallery)
 
 #### Galeria de produdos HTML, CSS JavaScript
 
@@ -29,6 +29,8 @@ e pode ser instalado usando a Central de programas ou usando o comando
 ### 4. Instalar o programa;
      
         sudo apt-get install brackets
+        
+ 
       
         
      
