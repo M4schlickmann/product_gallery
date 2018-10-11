@@ -7,9 +7,9 @@
 
 #### GitClone
 		
-#### Vá até o diretório onde deseja clonar os arquivos e abra com  terminal (linux) e cole o seguinte comando:
+#### Vá até o diretório onde deseja clonar os arquivos e abra com  terminal  e cole o seguinte comando:
 
-   	git clone https://github.com/M4schlickmann/product_gallery.git
+   git clone https://github.com/M4schlickmann/product_gallery.git
 
 ### Pode ser editado com Brackets ou qualquer outro editor de texto compativel.
 
